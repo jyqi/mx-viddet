@@ -1,0 +1,6 @@
+Cython
+EasyDict
+opencv-python
+mxnet-cu101
+mxboard
+pyyaml
